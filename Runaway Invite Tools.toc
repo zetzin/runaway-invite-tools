@@ -1,0 +1,9 @@
+## Interface: 120000
+## Interface-Retail: 120000
+## Title: |cffCC2020Runaway|r Invite Tools
+## Notes: Fila de summon para raids. Quem escrever 123 no chat de raid aparece na lista. Avisos especiais para Warlocks.
+## Author: Runaway Guild
+## Version: 1.0.0
+## SavedVariables: RunawayInviteToolsDB
+
+Core.lua
