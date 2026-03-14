@@ -21,8 +21,7 @@ Quantidade de outros jogadores na fila
 Som de alarme para chamar atenção
 O alerta some automaticamente assim que você começar a conjurar o Ritual of Summoning.
 
-Comandos
-Comando	Ação
+Comandos:
 /rit	Mostra ou esconde a janela da fila
 /rit clear	Limpa toda a fila manualmente
 /rit test	Adiciona jogadores fictícios para testar
